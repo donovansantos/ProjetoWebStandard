@@ -1,2 +1,2 @@
-# ProjetoWebStandar
- projeto para o Curso de Tecnologia Web Para Faculdade ENIAC 2021
+# ProjetoWebStandard
+ Projeto para o Curso de Tecnologia Web Para Faculdade ENIAC 2021
